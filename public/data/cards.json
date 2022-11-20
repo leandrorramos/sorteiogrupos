@@ -1,0 +1,45 @@
+{
+    "titulo":"ESCOLHA O SEU POVO",
+    "tabela": false,
+    "rows":3,
+    "cols":3,
+    "cards":[
+        {
+            "ativo": true,
+            "titulo":"Unos",
+            "text":""
+        },
+        {
+            "ativo": false
+        },
+        {
+            "ativo": true,
+            "titulo":"Cécios",
+            "text":""
+        },
+        {
+            "ativo": false
+        },
+        {
+            "ativo": true,
+            "titulo":"Timidoleses",
+            "text":""
+        },
+        {
+            "ativo": false
+        },
+        {
+            "ativo": true,
+            "titulo":"Dançantinos do Norte",
+            "text":""
+        },
+        {
+            "ativo": false
+        },
+        {
+            "ativo": true,
+            "titulo":"Extrovertídius",
+            "text":""
+        }
+    ]
+}
